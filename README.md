@@ -8,38 +8,3 @@ The aim of Covfefe is to create a new and updated utilty with references to the 
 The quotes have been carefully selected from a variety of sources and range from the absurd to the disingenous. From the ignorant to the inane. From the hypocritical to hilarious. 
 
 Covfefe is extra fun if you pipe the output to cowsay.
-
-
-/ You must obey the law, always, not only \
-| when they grab you by your special      |
-\ place - Vladimir Putin                  /
- -----------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-
- The concept of global warming was       \
-| created by and for the Chinese in order |
-| to make U.S. manufacturing              |
-\ non-competitive. ― Donald Trump         /
- -----------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
- _________________________________________
-/ I was at a hospital the other night     \
-| where I think there were actually a few |
-| coronavirus patients and I shook hands  |
-| with everybody, you’ll be pleased to    |
-| know, and I continue to shake hands -   |
-\ Boris Johnson                           /
- -----------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
