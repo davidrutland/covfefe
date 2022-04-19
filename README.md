@@ -9,7 +9,7 @@ The quotes have been carefully selected from a variety of sources and range from
 
 Covfefe is extra fun if you pipe the output to cowsay.
 
- _________________________________________
+
 / You must obey the law, always, not only \
 | when they grab you by your special      |
 \ place - Vladimir Putin                  /
@@ -20,8 +20,7 @@ Covfefe is extra fun if you pipe the output to cowsay.
                 ||----w |
                 ||     ||
 
- _________________________________________
-/ The concept of global warming was       \
+ The concept of global warming was       \
 | created by and for the Chinese in order |
 | to make U.S. manufacturing              |
 \ non-competitive. ― Donald Trump         /
