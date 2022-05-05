@@ -4,6 +4,4 @@ quotes=("Despite the constant negative press covfefe ― Donald Trump" "I will b
 RANDOM=$$$(date +%s)
 
 thisquote=${quotes[ $RANDOM % ${#quotes[@]} ]}
-    echo $thisquote
-
-
+echo $thisquote | sed -E "s/ - | ― /\n ― /g"
